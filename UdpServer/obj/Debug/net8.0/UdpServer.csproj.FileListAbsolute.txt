@@ -1,0 +1,14 @@
+C:\Users\konop\Desktop\MyLab\UdpServer\bin\Debug\net8.0\UdpServer.exe
+C:\Users\konop\Desktop\MyLab\UdpServer\bin\Debug\net8.0\UdpServer.deps.json
+C:\Users\konop\Desktop\MyLab\UdpServer\bin\Debug\net8.0\UdpServer.runtimeconfig.json
+C:\Users\konop\Desktop\MyLab\UdpServer\bin\Debug\net8.0\UdpServer.dll
+C:\Users\konop\Desktop\MyLab\UdpServer\bin\Debug\net8.0\UdpServer.pdb
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfo.cs
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.dll
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\refint\UdpServer.dll
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.pdb
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\UdpServer.genruntimeconfig.cache
+C:\Users\konop\Desktop\MyLab\UdpServer\obj\Debug\net8.0\ref\UdpServer.dll

@@ -1,0 +1,14 @@
+C:\Users\konop\Desktop\MyLab\UdpClient\bin\Debug\net8.0\UdpClient.exe
+C:\Users\konop\Desktop\MyLab\UdpClient\bin\Debug\net8.0\UdpClient.deps.json
+C:\Users\konop\Desktop\MyLab\UdpClient\bin\Debug\net8.0\UdpClient.runtimeconfig.json
+C:\Users\konop\Desktop\MyLab\UdpClient\bin\Debug\net8.0\UdpClient.dll
+C:\Users\konop\Desktop\MyLab\UdpClient\bin\Debug\net8.0\UdpClient.pdb
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfoInputs.cache
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfo.cs
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.dll
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\refint\UdpClient.dll
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.pdb
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\UdpClient.genruntimeconfig.cache
+C:\Users\konop\Desktop\MyLab\UdpClient\obj\Debug\net8.0\ref\UdpClient.dll
